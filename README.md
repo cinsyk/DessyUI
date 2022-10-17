@@ -1,5 +1,7 @@
 # DessyUI
 
+> MVP (Minimum Viable Product) 是最简化可实行产品的意思。
+
 ## 通过 Vite 将一个组件封装为组件库，组件库可以被其他Vue项目作为插件直接进行使用。
 
 1. 如何使用Vite 从零搭建 Vue 开发环境 ？
